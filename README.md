@@ -1,12 +1,9 @@
-# Rafik Mammeri
+<a href="https://www.rafikmammeri.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Rafik Mammeri, Lead AI Engineer. I build AI products that people use every day.">
+</picture></a>
 
-**Lead AI Engineer · AI at scale in production**
-
-I lead the engineering of AI agents that answer customers on the phone, on the web and in the app. Tech lead of a team of AI engineers at Boulanger. PhD in Mathematics, then six years of machine learning in banking at BNP Paribas.
-
-[Website](https://www.rafikmammeri.com) · [LinkedIn](https://www.linkedin.com/in/rafikmammeri)
-
----
+[Website](https://www.rafikmammeri.com) · [LinkedIn](https://www.linkedin.com/in/rafikmammeri) · [Source of the site](https://github.com/rafik-mammeri/rafikmammeri.com)
 
 ### Currently building
 
@@ -17,13 +14,7 @@ I lead the engineering of AI agents that answer customers on the phone, on the w
 
 ### Stack
 
-- AI: `LangGraph` · `LangChain` · `MCP` · `Anthropic` · `OpenAI` · `Gemini` · `Gemini Enterprise`
-- Search & data: `Azure AI Search` · `Weaviate` · `Snowflake` · `MongoDB` · `Firestore`
-- Backend: `Python` · `FastAPI` · `Pydantic` · `Streamlit`
-- Infra & security: `Google Cloud` · `Cloud Run` · `Kubernetes` · `Docker` · `Terraform` · `Gravitee` · `OAuth 2.0` · `OpenID Connect` · `RBAC`
-- Observability: `Langfuse` · `Prometheus` · `Grafana`
-- Quality & CI: `GitLab CI` · `pytest` · `Ruff` · `SonarQube`
-
----
-
-This profile's companion site: [rafikmammeri.com](https://www.rafikmammeri.com) · [source code](https://github.com/rafik-mammeri/rafikmammeri.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Stack: LangGraph, LangChain, MCP, Anthropic, OpenAI, Gemini, Gemini Enterprise, Azure AI Search, Weaviate, Snowflake, MongoDB, Firestore, Python, FastAPI, Pydantic, Streamlit, Google Cloud, Cloud Run, Kubernetes, Docker, Terraform, Gravitee, OAuth 2.0, OpenID Connect, RBAC, Langfuse, Prometheus, Grafana, GitLab CI, pytest, Ruff, SonarQube">
+</picture>
