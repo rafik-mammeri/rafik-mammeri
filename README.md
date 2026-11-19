@@ -17,13 +17,12 @@ I lead the engineering of AI agents that answer customers on the phone, on the w
 
 ### Stack
 
-- AI: `LangGraph` · `LangChain` · `MCP` · `Anthropic` · `OpenAI` · `Gemini` · `Gemini Enterprise` · `Google Chat`
+- AI: `LangGraph` · `LangChain` · `MCP` · `Anthropic` · `OpenAI` · `Gemini` · `Gemini Enterprise`
 - Search & data: `Azure AI Search` · `Weaviate` · `Snowflake` · `MongoDB` · `Firestore`
 - Backend: `Python` · `FastAPI` · `Pydantic` · `Streamlit`
 - Infra & security: `Google Cloud` · `Cloud Run` · `Kubernetes` · `Docker` · `Terraform` · `Gravitee` · `OAuth 2.0` · `OpenID Connect` · `RBAC`
 - Observability: `Langfuse` · `Prometheus` · `Grafana`
 - Quality & CI: `GitLab CI` · `pytest` · `Ruff` · `SonarQube`
-- Machine learning: `PyTorch` · `Hugging Face Transformers` · `MLflow` · `XGBoost` · `CatBoost` · `scikit-learn` · `pandas`
 
 ---
 
