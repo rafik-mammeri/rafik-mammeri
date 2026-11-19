@@ -1,7 +1,7 @@
-<a href="https://www.rafikmammeri.com"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner-light.svg" width="100%" alt="Rafik Mammeri, Lead AI Engineer. I build AI products that people use every day.">
-</picture></a>
+</picture>
 
 [Website](https://www.rafikmammeri.com) · [LinkedIn](https://www.linkedin.com/in/rafikmammeri) · [Source of the site](https://github.com/rafik-mammeri/rafikmammeri.com)
 
