@@ -1,31 +1,28 @@
 # Rafik Mammeri
 
-**Lead AI Engineer · Agentic Systems in Production**
+**Lead AI Engineer · AI at scale in production**
 
-Tech lead of an AI engineering team @ [Boulanger](https://www.boulanger.com) — building multi-agent LLM systems that run at scale, not just in demos. PhD in Mathematics, 7+ years in Data Science and MLOps before moving full-time into agentic AI.
+I lead the engineering of AI agents that answer customers on the phone, on the web and in the app. Tech lead of a team of AI engineers at Boulanger. PhD in Mathematics, then six years of machine learning in banking at BNP Paribas.
 
-[LinkedIn](https://www.linkedin.com/in/rafikmammeri)
+[Website](https://www.rafikmammeri.com) · [LinkedIn](https://www.linkedin.com/in/rafikmammeri)
 
 ---
 
 ### Currently building
 
-- **Conversational AI chatbot** — production customer-facing channel at Boulanger. LangGraph multi-agent swarm, ~2,000 conversations/day, 78% satisfaction, 73–75% resolution without escalation (10,450+ evaluations collected)
-- **Self-BI** — MCP server on Snowflake (SQL, Cortex Analyst, Cortex Search) + ADK agent on Vertex AI, letting business teams query data in natural language
-- **Google Chat / Gemini Enterprise agents** — HR and FAQ agents in production, backed by Vertex AI Data Stores
-- **Vox Callbot** — extending the conversational channel to voice, hexagonal architecture + SSE streaming
+- **Customer relations voicebot.** Answers customer calls end to end, around 20k calls a day. Hexagonal architecture, SSE streaming.
+- **Conversational AI chatbot.** Customer-facing chat, around 12k conversations a day. LangGraph multi-agent system.
+- **Agentic analytics on a semantic layer.** Business teams ask questions about their data in plain language from Gemini Enterprise. The agent (Google ADK, Vertex AI) goes through an MCP server on Snowflake: semantic views hold the business definitions, Cortex Analyst turns the question into SQL, Cortex Search covers the unstructured part. The agent works on governed data products, not raw tables.
+- **Internal agents in Google Chat and Gemini Enterprise.** HR and FAQ agents in production, grounded in Vertex AI Data Stores.
 
-### Background
+### Before
 
-- **2018–2024** — BNP Paribas (Risk & Datalab): credit risk scoring, fraud detection, and NLP support-chatbot systems, industrialized end-to-end
-- **2024–2025** — Freelance (ITS Group): RAG system for consultant-profile matching, GCP infrastructure from scratch
-- **2025–present** — Boulanger: Lead AI Engineer, tech lead on production agentic AI
+- **2024–2025**: RAG system to match consultant profiles to projects, on GCP infrastructure built from scratch.
+- **2018–2024**: BNP Paribas (Risk & Datalab). Credit risk scoring, fraud detection and an NLP support chatbot, taken from model to production.
 
 ### Stack
 
-`Python` · `LangGraph` · `LangChain` · `Google ADK` · `MCP` · `Azure OpenAI` · `Gemini / Vertex AI` · `FastAPI` · `Kubernetes` · `Snowflake` · `Langfuse` · `GCP` · `Azure`
-
-Open to freelance AI/MLOps missions and Head of AI Delivery conversations.
+`Python` · `LangGraph` · `Google ADK` · `MCP` · `Gemini / Vertex AI` · `Azure OpenAI` · `FastAPI` · `Kubernetes` · `Snowflake` · `Langfuse` · `GCP` · `Azure`
 
 ---
 
