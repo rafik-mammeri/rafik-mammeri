@@ -13,7 +13,7 @@ I lead the engineering of AI agents that answer customers on the phone, on the w
 - **Customer relations voicebot.** Answers customer calls end to end, around 20k calls a day.
 - **Conversational AI chatbot.** Customer-facing chat, around 12k conversations a day.
 - **Agentic analytics on a semantic layer.** Connecting Gemini Enterprise to Snowflake through a custom MCP server, enriched with semantic views, Cortex Analyst and Cortex Search.
-- **Internal agents in Google Chat and Gemini Enterprise.** HR and FAQ agents in production, grounded in Vertex AI Data Stores.
+- **Internal agents in Gemini Enterprise.** HR and FAQ agents in production, grounded in Vertex AI Data Stores.
 
 ### Before
 
