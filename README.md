@@ -10,9 +10,9 @@ I lead the engineering of AI agents that answer customers on the phone, on the w
 
 ### Currently building
 
-- **Customer relations voicebot.** Answers customer calls end to end, around 20k calls a day. Hexagonal architecture, SSE streaming.
-- **Conversational AI chatbot.** Customer-facing chat, around 12k conversations a day. LangGraph multi-agent system.
-- **Agentic analytics on a semantic layer.** Business teams ask questions about their data in plain language from Gemini Enterprise. The agent (Google ADK, Vertex AI) goes through an MCP server on Snowflake: semantic views hold the business definitions, Cortex Analyst turns the question into SQL, Cortex Search covers the unstructured part. The agent works on governed data products, not raw tables.
+- **Customer relations voicebot.** Answers customer calls end to end, around 20k calls a day.
+- **Conversational AI chatbot.** Customer-facing chat, around 12k conversations a day.
+- **Agentic analytics on a semantic layer.** Connecting Gemini Enterprise to Snowflake through a custom MCP server, enriched with semantic views, Cortex Analyst and Cortex Search.
 - **Internal agents in Google Chat and Gemini Enterprise.** HR and FAQ agents in production, grounded in Vertex AI Data Stores.
 
 ### Before
