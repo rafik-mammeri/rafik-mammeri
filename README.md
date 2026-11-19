@@ -15,6 +15,6 @@
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" width="100%" alt="Stack: LangGraph, LangChain, MCP, Anthropic, OpenAI, Gemini, Gemini Enterprise, Azure AI Search, Weaviate, Snowflake, MongoDB, Firestore, Python, FastAPI, Pydantic, Streamlit, Google Cloud, Cloud Run, Kubernetes, Docker, Terraform, Gravitee, OAuth 2.0, OpenID Connect, RBAC, Langfuse, Prometheus, Grafana, GitLab CI, pytest, Ruff, SonarQube">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
+  <img src="assets/tech-light.svg" width="100%" alt="Stack: LangGraph, LangChain, MCP, Anthropic, OpenAI, Gemini, Gemini Enterprise, Azure AI Search, Weaviate, Snowflake, MongoDB, Firestore, Python, FastAPI, Pydantic, Streamlit, Google Cloud, Cloud Run, Kubernetes, Docker, Terraform, Gravitee, OAuth 2.0, OpenID Connect, RBAC, Langfuse, Prometheus, Grafana, GitLab CI, pytest, Ruff, SonarQube">
 </picture>
