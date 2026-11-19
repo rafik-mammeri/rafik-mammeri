@@ -15,14 +15,15 @@ I lead the engineering of AI agents that answer customers on the phone, on the w
 - **Agentic analytics on a semantic layer.** Connecting Gemini Enterprise to Snowflake through a custom MCP server, enriched with semantic views, Cortex Analyst and Cortex Search.
 - **Internal agents in Gemini Enterprise.** HR and FAQ agents in production, grounded in Vertex AI Data Stores.
 
-### Before
-
-- **2024–2025**: RAG system to match consultant profiles to projects, on GCP infrastructure built from scratch.
-- **2018–2024**: BNP Paribas (Risk & Datalab). Credit risk scoring, fraud detection and an NLP support chatbot, taken from model to production.
-
 ### Stack
 
-`Python` · `LangGraph` · `Google ADK` · `MCP` · `Gemini / Vertex AI` · `Azure OpenAI` · `FastAPI` · `Kubernetes` · `Snowflake` · `Langfuse` · `GCP` · `Azure`
+- AI: `LangGraph` · `LangChain` · `MCP` · `Anthropic` · `OpenAI` · `Gemini` · `Gemini Enterprise` · `Google Chat`
+- Search & data: `Azure AI Search` · `Weaviate` · `Snowflake` · `MongoDB` · `Firestore`
+- Backend: `Python` · `FastAPI` · `Pydantic` · `Streamlit`
+- Infra & security: `Google Cloud` · `Cloud Run` · `Kubernetes` · `Docker` · `Terraform` · `Gravitee` · `OAuth 2.0` · `OpenID Connect` · `RBAC`
+- Observability: `Langfuse` · `Prometheus` · `Grafana`
+- Quality & CI: `GitLab CI` · `pytest` · `Ruff` · `SonarQube`
+- Machine learning: `PyTorch` · `Hugging Face Transformers` · `MLflow` · `XGBoost` · `CatBoost` · `scikit-learn` · `pandas`
 
 ---
 
